@@ -15,6 +15,7 @@ public class ClassFirst {
         which other can see
         very easy to remember*/
 
+        System.out.println("i am ready to change");
 
     }
 }
