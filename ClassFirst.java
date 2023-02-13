@@ -16,6 +16,8 @@ public class ClassFirst {
         very easy to remember*/
 
         System.out.println("i am ready to change");
+        System.out.println("i really like learning github");
+        
 
     }
 }
